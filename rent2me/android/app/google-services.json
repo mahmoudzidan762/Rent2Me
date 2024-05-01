@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940175439524",
+    "project_id": "rent2me-47c45",
+    "storage_bucket": "rent2me-47c45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940175439524:android:a56dfd849858c929719831",
+        "android_client_info": {
+          "package_name": "com.example.rent2me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZjIi11Silzv7FE0ZRL4FMu-U60f4G4KU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
