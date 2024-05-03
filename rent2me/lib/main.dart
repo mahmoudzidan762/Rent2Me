@@ -2,7 +2,6 @@ import 'package:animated_splash_screen/animated_splash_screen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'package:path/path.dart';
 import 'package:rent2me/auth/login.dart';
 import 'package:rent2me/auth/register_page.dart';
 import 'package:rent2me/constants.dart';
@@ -76,7 +75,7 @@ class _rent2meState extends State<rent2me> {
           debugShowCheckedModeBanner: false,
           home: AnimatedSplashScreen(
             duration: 2500,
-            splash: Image.asset('assets/images/car-1024.png'),
+            splash: Image.asset('assets/images/car_1024.png'),
             nextScreen: LoginPage(),
             backgroundColor: kPrimaryBackgroundColor,
           ),

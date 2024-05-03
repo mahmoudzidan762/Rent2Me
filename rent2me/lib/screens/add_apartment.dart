@@ -10,7 +10,6 @@ import 'package:rent2me/constants.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 import 'package:rent2me/components/custom_button.dart';
 import 'package:rent2me/components/custom_text_form_field.dart';
-import 'package:rent2me/screens/my_apartments.dart';
 import 'package:firebase_storage/firebase_storage.dart' as firebase_storage;
 
 class AddApartment extends StatefulWidget {
